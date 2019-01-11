@@ -4,6 +4,7 @@
 
 > A list for exams in HUST
 
+[中文](README_zh-cn.md)
 
 ## Contents
 
