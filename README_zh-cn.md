@@ -17,13 +17,13 @@
 
 ### 思想道德修养与法律基础
 
-- [By Colin](https://outsiders.top)
+- [By Colin](https://outsiders.top/2019/01/11/Ideological-and-moral-cultivation-and-legal-basis/)
 - [By Maniacata](https://github.com/ManiaciaChao/how-to-preview/tree/master/%E6%80%9D%E4%BF%AE%E4%B8%8E%E6%B3%95%E5%BE%8B%E5%9F%BA%E7%A1%80)
 
 
 ### 中国语文
 
-- [By Colin](https://outsiders.top)
+- [By Colin](https://outsiders.top/2019/01/11/Chinese/)
 
 ## 贡献
 
