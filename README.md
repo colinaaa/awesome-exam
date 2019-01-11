@@ -34,4 +34,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
 To the extent possible under law, [Colin Wang](https://outsiders.top) has waived all copyright and
-related or neighboring rights to Awesome-exam.This work is published from: China Mainland.
+related or neighboring rights to Awesome-exam.This work is published from: 中国大陆.
