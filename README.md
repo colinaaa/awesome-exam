@@ -26,6 +26,12 @@
 
 - [By Colin](https://outsiders.top/2019/01/11/Chinese/)
 
+
+### C Programming Language
+
+- [By Codedragon](https://blog.codedragon.tech/2016/06/20/c-e8-af-ad-e8-a8-80-e5-a4-8d-e4-b9-a0-e9-97-ae-e9-a2-98-e6-80-bb-e7-bb-93)
+
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
