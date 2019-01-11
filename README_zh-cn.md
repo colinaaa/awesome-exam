@@ -2,34 +2,33 @@
 
 # [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> A list for exams in HUST
 
 
-## Contents
+## 内容
 
-- [Freshman](#Freshman)
-
-
-## Freshman
-
-- [Ideological and moral cultivation and legal basis](#Ideological-and-moral-cultivation-and-legal-basis)
-- [Chinese](#Chinese)
+- [大一](#大一)
 
 
-### Ideological and moral cultivation and legal basis
+## 大一
 
-- [By Colin](https://outsiders.top/2019/01/11/Ideological-and-moral-cultivation-and-legal-basis/)
+- [思想道德修养与法律基础](#思想道德修养与法律基础)
+- [中国语文](#中国语文)
+
+
+### 思想道德修养与法律基础
+
+- [By Colin](https://outsiders.top)
 - [By Maniacata](https://github.com/ManiaciaChao/how-to-preview/tree/master/%E6%80%9D%E4%BF%AE%E4%B8%8E%E6%B3%95%E5%BE%8B%E5%9F%BA%E7%A1%80)
 
 
-### Chinese
+### 中国语文
 
-- [By Colin](https://outsiders.top/2019/01/11/Chinese/)
+- [By Colin](https://outsiders.top)
 
-## Contribute
+## 贡献
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
+**如果你有好的考试资源，欢迎做出贡献！**
+请首先阅读[贡献指南](contributing.md)。
 
 ## LICENSE
 
