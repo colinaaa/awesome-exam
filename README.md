@@ -1,18 +1,37 @@
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
-  <a rel="license"
-     href="http://creativecommons.org/publicdomain/zero/1.0/">
-    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
-  </a>
-  <br />
-  To the extent possible under law,
-  <a rel="dct:publisher"
-     href="outsiders.top">
-    <span property="dct:title">Colin Wang</span></a>
-  has waived all copyright and related or neighboring rights to
-  <span property="dct:title">Awesome-exam</span>.
-This work is published from:
-<span property="vcard:Country" datatype="dct:ISO3166"
-      content="CN" about="outsiders.top">
-  中国大陆</span>.
-</p>
+# Awesome Exam [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
+> A list for exams in HUST
+
+
+## Contents
+
+- [Freshman](#Freshman)
+
+
+## Freshman
+
+- [Ideological and moral cultivation and legal basis](#Ideological-and-moral-cultivation-and-legal-basis)
+- [Chinese](#Chinese)
+
+
+### Ideological and moral cultivation and legal basis
+
+- [By Colin](https://outsiders.top)
+- [By Maniacata](https://github.com/ManiaciaChao/how-to-preview/tree/master/%E6%80%9D%E4%BF%AE%E4%B8%8E%E6%B3%95%E5%BE%8B%E5%9F%BA%E7%A1%80)
+
+
+### Chinese
+
+- [By Colin](https://outsiders.top)
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+
+## LICENSE
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
+
+To the extent possible under law, [Colin Wang](https://outsiders.top) has waived all copyright and
+related or neighboring rights to Awesome-exam.This work is published from: China Mainland.
