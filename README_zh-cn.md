@@ -30,6 +30,9 @@
 
 - [By Codedragon](https://blog.codedragon.tech/2016/06/20/c-e8-af-ad-e8-a8-80-e5-a4-8d-e4-b9-a0-e9-97-ae-e9-a2-98-e6-80-bb-e7-bb-93)
 
+### 计算思维
+
+- [By Zippermonkey](https://zippermonkey.github.io/2019/01/14/Computational-Thinking/)
 
 ## 贡献
 
