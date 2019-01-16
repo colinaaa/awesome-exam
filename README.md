@@ -35,7 +35,7 @@
 
 ### Computing Thinking
 
-- [By zippermonky](https://github.com/colinaaa/awesome-exam/blob/master/%E8%AE%A1%E7%AE%97%E6%80%9D%E7%BB%B4/Computational-Thinking.md)
+- [By Zippermonkry](https://zippermonkey.github.io/2019/01/14/Computational-Thinking/)
 
 
 ## Contribute
