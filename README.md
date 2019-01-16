@@ -15,6 +15,7 @@
 
 - [Ideological and moral cultivation and legal basis](#Ideological-and-moral-cultivation-and-legal-basis)
 - [Chinese](#Chinese)
+- [Computing thinking](#Computing-thinking)
 
 
 ### Ideological and moral cultivation and legal basis
@@ -31,6 +32,10 @@
 ### C Programming Language
 
 - [By Codedragon](https://blog.codedragon.tech/2016/06/20/c-e8-af-ad-e8-a8-80-e5-a4-8d-e4-b9-a0-e9-97-ae-e9-a2-98-e6-80-bb-e7-bb-93)
+
+### Computing Thinking
+
+- [By zippermonky](https://github.com/colinaaa/awesome-exam/blob/master/%E8%AE%A1%E7%AE%97%E6%80%9D%E7%BB%B4/Computational-Thinking.md)
 
 
 ## Contribute
