@@ -2,55 +2,59 @@
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
+> A list for exams in HUST
+
+[中文](README.md)
+
+## Contents
 
 
-## 内容
-- [内容](#%E5%86%85%E5%AE%B9)
-- [大一](#%E5%A4%A7%E4%B8%80)
-  - [思想道德修养与法律基础](#%E6%80%9D%E6%83%B3%E9%81%93%E5%BE%B7%E4%BF%AE%E5%85%BB%E4%B8%8E%E6%B3%95%E5%BE%8B%E5%9F%BA%E7%A1%80)
-  - [中国语文](#%E4%B8%AD%E5%9B%BD%E8%AF%AD%E6%96%87)
-  - [C语言程序设计](#c%E8%AF%AD%E8%A8%80%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1)
-  - [计算思维](#%E8%AE%A1%E7%AE%97%E6%80%9D%E7%BB%B4)
-- [大三](#%E5%A4%A7%E4%B8%89)
-  - [计算机网络](#%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
-- [贡献](#%E8%B4%A1%E7%8C%AE)
+- [Contents](#contents)
+- [Freshman](#freshman)
+  - [Ideological and moral cultivation and legal basis](#ideological-and-moral-cultivation-and-legal-basis)
+  - [Chinese](#chinese)
+  - [C Programming Language](#c-programming-language)
+  - [Computational Thinking](#computational-thinking)
+- [Junior](#junior)
+  - [Computer Networking](#computer-networking)
+- [Contribute](#contribute)
 - [LICENSE](#license)
 
+## Freshman
 
-## 大一
-
-
-### 思想道德修养与法律基础
+### Ideological and moral cultivation and legal basis
 
 - [By Colin](https://outsiders.top/2019/01/11/Ideological-and-moral-cultivation-and-legal-basis/)
 - [By Maniacata](https://github.com/ManiaciaChao/how-to-preview/tree/master/%E6%80%9D%E4%BF%AE%E4%B8%8E%E6%B3%95%E5%BE%8B%E5%9F%BA%E7%A1%80)
 
 
-### 中国语文
+### Chinese
 
 - [By Colin](https://outsiders.top/2019/01/11/Chinese/)
 
 
-### C语言程序设计
+### C Programming Language
 
 - [By Codedragon](https://blog.codedragon.tech/2016/06/20/c-e8-af-ad-e8-a8-80-e5-a4-8d-e4-b9-a0-e9-97-ae-e9-a2-98-e6-80-bb-e7-bb-93)
 
-### 计算思维
+### Computational Thinking
 
-- [By Zippermonkey](https://zippermonkey.github.io/2019/01/14/Computational-Thinking/)
-
-
-## 大三
+- [By Zippermonkry](https://zippermonkey.github.io/2019/01/14/Computational-Thinking/)
 
 
-### 计算机网络
+## Junior
+
+- [Computer Networking](#Computer-networking)
+
+### Computer Networking
 
 - [By podiumdesu](https://github.com/podiumdesu/Network_100)
 
-## 贡献
 
-**如果你有好的考试资源，欢迎做出贡献！**
-请首先阅读[贡献指南](contributing.md)。
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
 
 ## LICENSE
 
